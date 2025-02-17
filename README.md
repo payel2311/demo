@@ -1,3 +1,3 @@
 # demo
 </br>
-This i a demo repository
+this is a project
